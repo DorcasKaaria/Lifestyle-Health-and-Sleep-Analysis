@@ -83,3 +83,9 @@ The analysis identified differences in stress levels, sleep quality, physical ac
 
 The findings highlight areas for further investigation, particularly the well-being of younger people, elevated blood pressure among overweight individuals, and BMI patterns among nurses. The results should be interpreted in the context of the dataset, especially where occupational sample sizes are small.
 
+## Comparision using Manus AI
+
+I build a simple web page using Manus AI to compare the analysis.
+The developed page takes the clean data from the local computer then builds a detailed dashboard from the analysis.
+Here is the link to the web page: https://vivawell-lzkdaxlu.manus.space/ 
+Use the clean dataset of the data folder to test the interface.
